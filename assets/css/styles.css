@@ -725,3 +725,9 @@ a.read_more:hover {
     }
 
 }
+
+.cards_img img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
